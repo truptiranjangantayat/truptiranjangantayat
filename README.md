@@ -1,7 +1,7 @@
 ![logo](https://github.com/truptiranjangantayat/truptiranjangantayat/blob/main/tech%20banner%20img.webp)
 
 <h1 align="center">Hi there👋, I'm Truptiranjan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">MCA Student | Proficient in C, Java, Python | Passionate Web Developer | Problem-Solver | Aspiring Skilled Programmer</h3>
 
 <img align="right"  alt="coding" width="400" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
 
